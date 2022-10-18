@@ -10,3 +10,4 @@ Deuxiéme modif étudiant 2
  Modif de vérification
 
 Nouvelle modification
+# Conflit
